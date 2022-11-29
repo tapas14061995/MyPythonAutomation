@@ -1,0 +1,6 @@
+# maximum of three numbers: max()
+print(max(10,4,5,13,7))
+print(max(10.5,5.5,8.7))
+# minimum of three numbers: min()
+print(min(2,5,3,7,6))
+print(min(20,49.5,34,5.5))
