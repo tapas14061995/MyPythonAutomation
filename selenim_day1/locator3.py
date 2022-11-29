@@ -11,7 +11,7 @@ driver.maximize_window()
 driver.find_element(By.CSS_SELECTOR,"input#email").send_keys("tapaschiku")
 driver.find_element(By.CSS_SELECTOR,"input[data-testid=royal_pass]").send_keys("Tapas@33")
 driver.find_element(By.NAME,"login").click()
-time.sleep(20)
+time.sleep(10)
 
 
 
